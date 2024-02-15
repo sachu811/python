@@ -13,12 +13,23 @@ sea_creatures[0]='dolphine'
 
 #remove
 sea_creatures.pop(0)
-print(sea_creatures)
+#print(sea_creatures)
 
 #reverse
 sea_creatures.reverse()
-print(sea_creatures)
+#print(sea_creatures)
 
 #length
-print(len(sea_creatures))
+#print(len(sea_creatures))
+
+print(['Hi']*4)
+
+print([1,2,3,4]+[6,7,8,9])
+
+if(3 in [1,2,3]):
+    print("true")
+
+for x in [1,2,3,4,5]:
+    print(x)
+
 
