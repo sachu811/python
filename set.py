@@ -2,6 +2,7 @@
 # sets are basically used to include membership testing and eliminating duplicate entries.
 #indexing not allowed 
 #duplictated data not allowed 
+# union intersection posible in set
 
 set1={1,2,3,4,5}
 print(set1)
