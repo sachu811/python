@@ -18,17 +18,26 @@
 # print(b)
 
 #ACCESSING MULTIPLE VARIABLE
-# a,b,c='apple','orange','banana'
+a,b,c='apple','orange','banana'
 # print(a)
 # print(b)
 # print(c)
-# a=b=c='orange'
+a=b=c='orange'
 # print(a)
 # print(b)
 # print(c)
 
 fruits=['apple','mango','banana'] #list
 a,b,c=fruits
-print(a)
-print(b)
-print(c)
+# print(a)
+# print(b)
+# print(c)
+
+
+
+#output variable
+a='abcd'
+b='def'
+c='klm'
+print(a,b,c)
+print(a+b+c)
